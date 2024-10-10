@@ -1,0 +1,57 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Environment variables
+.env
+.env.local
+
+# PostgreSQL
+pg_data/
+*.pgsql
+*.pg_dump
+
+# Build and production directories
+dist/
+build/
+
+# Temporary files and folders
+tmp/
+temp/
+
+# Static files (optional)
+public/static/
+*.lock
+
+# MacOS files
+.DS_Store
+
+# IDE specific files (VSCode, WebStorm, etc.)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+Thumbs.db
+
+# Coverage directories
+coverage/
+.nyc_output/
+
+# Parcel cache (if using Parcel for React)
+.cache/
+
+# React specific build output
+build/
+# files:
