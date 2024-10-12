@@ -65,17 +65,17 @@ To run this project, you need to have the following installed:
 ## Screenshots
 
 ### Main Page
-![Main Page](screenshots/main_page.png)
+![Main Page](screenshots/Main.PNG)
 
 ### Login Page
-![Login Page](screenshots/login_page.png)
+![Login Page](screenshots/Login.PNG)
 
 ### Dashboard Page
-![Dashboard Page](screenshots/dashboard_page.png)
-![Graphics](screenshots/dashboard_page.png)
+![Dashboard Page](screenshots/Dashboard.PNG)
+![Graphics](screenshots/dashboardSuite.PNG)
 ### Add a New Complaint Page
-![Add a New Complaint Page](screenshots/add_complaint_page.png)
+![Add a New Complaint Page](screenshots/NewComplaint.png)
 
-*The complaint is collected automatically, but you can also add it manually.*
+*The complaint is collected automatically ( Not handled in this shared repo), but you can also add it manually.*
 
 
