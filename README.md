@@ -72,9 +72,9 @@ To run this project, you need to have the following installed:
 
 ### Dashboard Page
 ![Dashboard Page](screenshots/Dashboard.PNG)
-![Graphics](screenshots/dashboardSuite.PNG)
+![Graphics](screenshots/DashboardSuite.PNG)
 ### Add a New Complaint Page
-![Add a New Complaint Page](screenshots/NewComplaint.png)
+![Add a New Complaint Page](screenshots/NewComplaint.PNG)
 
 *The complaint is collected automatically ( Not handled in this shared repo), but you can also add it manually.*
 
